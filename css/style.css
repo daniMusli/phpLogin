@@ -1,0 +1,73 @@
+/*login sayfasi*/
+.fa-university{
+	margin-top:90px;
+}
+.btn-primary{
+	 padding:15px 40px 15px 40px;
+	 margin: 15px;
+}
+.kayitButton{
+	padding:15px 40px 15px 40px;
+	margin: -7px;
+}
+.input-group{
+	margin-bottom: 25px;
+}
+.primary{
+	margin:10px;
+}
+
+
+
+/*kayit ol sayfasi*/
+.icon{
+	   margin-top:50px;
+}
+.baslik{
+	margin-bottom: 50px;
+}
+.form-group{
+	padding-bottom: 30px;
+}
+@media(min-width:1200px){
+    .kayit{
+	    margin-left: 1015px;
+	    padding:12px 30px 14px 30px;
+   }
+}
+@media(min-width:0px) and (max-width:1199px){
+    .kayit{
+      padding:15px 50px 15px 50px;
+			margin-bottom: 50px;
+   }
+}
+.calen{
+	width:50px;
+}
+
+
+
+/*ogrenci sayfasi*/
+.fa-user-graduate{
+	margin-top:15px;
+}
+@media(min-width:1200px){
+    .btn-danger{
+	    margin-left: 1015px;
+	    padding:12px 30px 14px 30px;
+			margin-top: 0px;
+   }
+}
+@media(min-width:0px) and (max-width:1199px){
+    .btn-danger{
+      padding:15px 50px 15px 50px;
+			margin-bottom: 50px;
+   }
+}
+
+.guncell{
+	margin-top: -76px;
+}
+.oinput{
+	margin-bottom: -34px;
+}
